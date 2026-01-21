@@ -1,0 +1,2 @@
+Final R^2 Score for Question 5 (Recovery Time Regression):
+0.14724
